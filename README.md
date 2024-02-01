@@ -1,6 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
@@ -12,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou estudando Laravel <br>
+<p align="left">📚 Atualmente estou estudando Laravel <br><br> 📫 Como entrar em contato comigo: carlaneuburger@gmail.com</p>
 
 ###
 
@@ -31,11 +29,7 @@
 </div>
 
 ###
-###
 
-<h2 align="left">How to find me</h2>
-
-###
 <div align="left">
   <a href="www.linkedin.com/in/carla-neuburger-37914a1aa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
